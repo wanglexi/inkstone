@@ -1,3 +1,16 @@
+Hello All !
+
+I am a Chinese language teacher in France and I'd like to localize e.g. translate the INKSTONE application into French, so that french students would be allowed to benefit from this great application. 
+
+Below is the original project by skishore.
+
+Any good will to contribute and help are most welcomed !
+
+Best ! 
+
+Wang
+
+
 ![Inkstone in action](http://i.imgur.com/FetiXVc.gif)
 
 ### What's new
